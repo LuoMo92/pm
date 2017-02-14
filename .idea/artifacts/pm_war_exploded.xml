@@ -8,6 +8,9 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
+          <element id="library" level="project" name="Maven: com.itextpdf:itextpdf:5.5.9" />
+          <element id="library" level="project" name="Maven: com.itextpdf.tool:xmlworker:5.5.9" />
+          <element id="library" level="project" name="Maven: com.itextpdf:itext-asian:5.2.0" />
         </element>
       </element>
       <element id="directory" name="META-INF">
